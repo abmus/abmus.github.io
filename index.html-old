@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>ABMUS2019: Workshop on Agent-Based Modelling of Urban Systems</title>
+  <META name="description" content="The ABMUS2018 workshop on Agent-based modelling of urban systems will be held at the AAMAS2019 conference in Montreal, Canada, from 13-17 May 2019"><META name="keywords" content="ABMUS2019 AAMAS2019">
+
+<link rel="stylesheet" href="css/styles.css">
+<! stylesheet from https://github.com/russmaxdesign/example-layout-one-full>
+
+</head>
+
+<body>
+
+<div class="header">
+			<div class="container">
+				<h1 class="header-heading">ABMUS2019: The 4th International Workshop on Agent-Based Modelling of Urban Systems</h1>
+			</div>
+		</div>
+		
+		<div class="nav-bar">
+			<div class="container">
+				<ul class="nav">
+					<li><a href="#cfp">Call for Papers</a></li>
+					<li><a href="#submission">Submission and key dates</a></li>
+					<li><a href="#org">Organisation</a></li>
+					<li><a href="#proceedings">Proceedings</a></li>
+					<li><a href="#programme">Workshop Programme</a></li>
+
+
+
+				</ul>
+			</div>
+		</div>
+		<div class="content">
+			<div class="container">
+				<div class="main">
+				
+
+
+<p>
+<b>Note: We are currently preparing for ABMUS2020 and more information will follow shortly</b>
+</p>
+
+<h2>About</h2>
+
+<p>
+The ABMUS2019 workshop on Agent-based modelling of urban systems was held on the 14th of May 2019 in Montreal, Canada. The workshop was part of the <a href="http://aamas2019.encs.concordia.ca/" target="_blank">AAMAS2019 conference</a> which took place between 13th-17th of May. Previously, <a href="http://abmus2016.modelling-urban-systems.com" target="_blank">ABMUS2016</a> was held in Singapore during <a href="https://sis.smu.edu.sg/aamas2016" target="_blank">AAMAS2016</a> on the 10th of May 2016, <a href="http://abmus2017.modelling-urban-systems.com/" target="_blank">ABMUS2017</a> was held in Sao Paulo during <a href="http://www.aamas2017.org" target="_blank">AAMAS2017</a> on the 8th of May 2017 and last year  <a href="http://abmus2018.modelling-urban-systems.com/" target="_blank">ABMUS2018</a> was held in Stockholm during the Federated AI Meeting (FAIM2018) which included the <a href="http://celweb.vuse.vanderbilt.edu/aamas18/" target="_blank">AAMAS2018</a> conference and <a href="https://www.ijcai-18.org/" target="_blank">IJCAI-ECAI</a> (International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence).
+</p>
+
+<p>
+The central goal of this workshop is to bring together the community of researchers and practitioners who use agent-based models and multi-agent systems to understand and manage cities and urban infrastructure systems.  Through the exchange of ideas and state-of-the-art within this area, we will pool together current thinking to discuss avenues of fruitful research and methodological challenges we face in building robust, realistic, and trusted models of urban systems.
+</p>
+
+<p>
+ABMUS offers a workshop where urban and geo-spatial models appear in one concentrated session. The workshop showcases state-of-the-art applications of agent technology, showing other AAMAS participants this exciting application domain, while also offering a setting for focused discussion around common themes associated with urban system modelling and community building among researchers. The overarching theme for 2019 is <i>humans and devices</i>, exploring how simulation models of cities can be used by people for decision-support and interactive exploration of scenarios, and how data from sensors and internet-of-things (IoT) devices can be incorporated in urban models.
+</p>
+
+
+<hr>
+
+<h2>Call for Papers<a name="cfp"></a></h2>
+
+<p>
+Agent-based modelling has proven itself to be a useful technique for understanding and predicting changes and impact of urban form and policy on urban systems. However, recognised challenges remain in designing, developing and implementing trusted models that can be used by industry and governments to enhance decision-making, and that can incorporate real (and real-time) data sets in a meaninful way. This workshop invites submissions from researchers and practitioners who develop and use agent-based models and agent systems to understand, explore, and manage cities and urban infrastructure systems.
+</p>
+
+<p>
+In particular, we invite presentations that fall under the <i>humans and devices</i> theme and describe how modelled systems can be used interactively by users for policy insight and how data from IoT devices and sensors can be applied directly in urban simulation models. We will discuss challenges associated with model development, data interoperability, deployment and communication, as well as developments in interfaces and user engagement.
+</p>
+
+<p>
+Workshop topics include, but are not limited to, the following:
+</p>
+
+<ul>
+<li>Large scale urban simulation applications</li>
+<li>Spatially explicit micro-simulation modelling</li>
+<li>Agent-based modelling of urban transport, land-use, housing, energy, health, etc.</li>
+<li>Simulation of household behaviour and technology adoption</li>
+<li>Localized population synthesis</li>
+<li>Multi-scale urban systems (temporal and spatial)</li>
+<li>Social simulation of demographic transitions</li>
+<li>Model development and co-development processes and protocols</li>
+<li>Data structures for simulating urban environments</li>
+<li>(Multi-)agent systems to provide decision support in e.g. transport, energy and air quality</li>
+<li>Connection of simulation models to social and geographical theory</li>
+<li>Government and industry engagement in model development and uptake</li>
+<li>Processes of model co-development to enhance decision-making in urban systems</li>
+<li>Development in model interfaces and engagement that enhance model uptake</li>
+<li>Internet of Things (IoT), open data and data interoperability for modelling</li>
+
+</ul>
+
+<p>
+If accepted, each presenter will be given a short time slot (max 10 minutes) to introduce their paper and/or case study, followed by 5-10 minutes in which presenters will share their views on the workshop theme. After three presentations there will be 20-30 minutes of group discussion in which presenters will act as panel members.
+</p>
+
+<p>
+Papers should be submitted as an extended abstract (2-4 pages) through the workshop website. Your abstract should include a Title as well as all authors and affiliations. It should articulate the objectives of the paper and provide a brief but thorough description of the research related to the theme of the workshop and the expected gain by those attending the presentation. Accepted authors will be invited to submit a full paper after the workshop to be included in the post-workshop proceedings.
+</p>
+
+<p>
+For details on how to submit please see <a href="http://modelling-urban-systems.com/abmus2019" target="_blank">http://modelling-urban-systems.com/abmus2019</a> and for more information please contact:
+<ul>
+<li>Koen van Dam -- <a href="mailto:k.van-dam@imperial.ac.uk?subject=ABMUS2019 query" title="ABMUS2019 query">k.van-dam@imperial.ac.uk</a></li>
+<li>Jason Thompson -- <a href="mailto:jason.thompson@unimelb.edu.au?subject=ABMUS2019 query" title="ABMUS2019 query">jason.thompson@unimelb.edu.au</a></li>
+</ul>
+</p>
+
+<hr>
+
+<h2>Submission and important dates<a name="submission"></a></h2>
+
+<p>
+<strong>How to submit a paper</strong>
+</p>
+
+<p>
+Participants are invited to submit an extended abstract (2-4 pages) describing their work on one or more of the topics relevant to the workshop. The submission should articulate the objectives of the paper and provide a brief but thorough description of the research related to the theme of the workshop. All submissions to the workshop will be reviewed by the organising committee and program committee, with at least two independent reviews per paper.
+</p>
+
+<p>
+Authors are requested to prepare their papers by following the <a href="http://www.springer.de/comp/lncs/authors.html" target="_blank">LNCS Springer instructions</a>, preferably using the LaTeX template provided but an MS Word template is also available.
+</p>
+
+<p>
+All papers must be submitted through the workshop's EasyChair page:<br>
+<a href="https://easychair.org/conferences/?conf=abmus2019" target="_blank">https://easychair.org/conferences/?conf=abmus2019</a>.
+</p>
+
+<p>
+<strong>Important dates</strong>
+<ul>
+<li> 4 March 2019: <strong>extended</strong> deadline for abstract submissions</li>
+<li> 10 March 2019: Notification of acceptance following the review process</li>
+<li> TBC: early bird registration ends</li>
+<li> 25 March 2019: Deadline for submitting camera-ready papers for inclusion in the pre-proceedings</li>
+<li> 14/15 May 2019: ABMUS workshop in Montreal, Canada</li>
+<li> Following the workshop, invitation for full papers</li>
+</ul>
+</p>
+
+
+<h2>Organisation<a name="org"></a></h2>
+
+<p>
+The organising committee consists of:
+<ul>
+<li>Dr Koen H. van Dam, Imperial College London</li>
+<li>Dr Jason Thompson, University of Melbourne</li>
+<li>Prof Pascal Perez, University of Wollongong</li>
+<li>Dr Nick Malleson, University of Leeds</li>
+<li>Dr Alison Heppenstall, University of Leeds</li>
+<li>Dr Andrew T. Crooks, George Mason University</li>
+</ul>
+</p>
+
+<p>
+With many thanks to the members of the scientific committee:
+
+<ul>
+<li>Taylor Anderson
+<li>Amos Azaria</li>
+<li>Locke Birdsey</li>
+<li>Suzana Dagacevic</li>
+<li>Stephane Galland</li>
+<li>Cole Hendrigan</li>
+<li>Alison Heppenstall</li>
+<li>Minh Kieu</li>
+<li>Liliana Perez</li>
+<li>Pascal Perez</li>
+<li>Gemma Read</li>
+<li>Dhirendra Singh</li>
+<li>Samarth Swarup</li>
+<li>Neil-Yorke-Smith</li>
+</ul>
+</p>
+
+<hr>
+
+<h2>Proceedings and special issues<a name="proceedings"></a></h2>
+<p>
+All accepted extended abstracts will be made available in the pre-proceedings. Please note that at least one author must register for the workshop in order for a paper to appear in the workshop proceedings. After the conference all presenters will be invited to submit a full paper for the ABMUS2019 proceedings to appear as a special issue with the journal <a href="https://www.mdpi.com/journal/systems" target="_blank">Systems</a>.
+</p>
+
+
+<h2>Programme<a name="programme"></a></h2>
+
+<p>
+The agenda for the ABMUS2019 workshop, taking place on Tuesday the 14th of May 2019, is available below. The workshop will be held in Room: MB 9D. For any registration enquiries please contact the main AAMAS conference.</p>
+
+<p>
+08:00-09:00	<i>Registration for AAMAS conference and workshops</i>
+</p>
+<p>
+09:00-09:15	Welcome
+</p>
+<p>
+09:15-10:30	Session 1 (3x15 mins talks, plus 30 mins panel discussion)<br>
+	Theme: <strong>Population and housing markets</strong><br>
+<ul>
+<li>	Hot Housing: A Study of Bidding Strategies in the Dutch Urban Residential Market -- AH Ziengs and Neil Yorke-Smith</li>
+<li>	Network Agent-Based Model for Simulating Spatial Segregation in Vancouver -- Taylor Anderson and Suzana Dragicevic</li>
+<li>	The role of language in urban segregation: an agent-based model of the spatial dynamics of immigrants in Montreal, Canada -- Liliana Perez and Dragicevic Suzana</li>
+</ul>
+</p>
+<p>
+10:30-11:00	<i>tea break</i>
+</p>
+<p>
+11:00-12:15	Session 2 (3x15 mins talks, plus 30 mins panel discussion)<br>
+	Theme: <strong>Generating models from data</strong><br>
+<ul>
+	<li>	State Estimation and Data Assimilation for an Agent-Based Model using a Probabilistic Framework -- Nick Malleson, Luke Archer, Minh Kieu, Jonathan Ward, Alison Heppenstall and Christoforos Anagnostopoulos</li>
+<li>	Building a large synthetic population from Australian census data -- Bhagya N. Wickramasinghe, Dhirendra Singh and Lin Padgham</li>
+<li>	Reducing the impacts of stochastic and dynamic data in agent-based modelling for real-time prediction -- Minh Kieu, Nicolas Malleson, Alison Heppenstall, Andrew West and Kevin Minors</li>
+</ul>
+</p>
+<p>
+12:15-12:30	Lightning talks (opportunity for non-presenting workshop participants to introduce their work)
+</p>
+
+<p>
+12:30-14:00	<i>lunch</i>
+</p>
+
+<p>
+14:00-15:30	Session 3 (4x15 mins talks, plus 30 mins panel discussion)<br>
+	Theme: <strong>Transport and air quality</strong><br>
+	<ul>
+	
+<li>	Potential effects of autonomous vehicles on crash rates among vulnerable road users -- Jason Thompson, Gemma Read, Paul Salmon & Jasper Wijnands</li>
+<li>	A Method for Maximizing Human Satisfaction in Ridesharing -- Chaya Levinger, Noam Hazon and Amos Azaria<br>
+<li>	Developing an agent-based simulation model for grocery home deliveries -- Pratyush Dadhich, Phil Greening, Anna Keyes and Siu Cheng</li>
+<li>	Combining an activity-based urban transport model with air turbulence flow simulation to analyse the impact of traffic on air quality -- Koen van Dam, Liu Yang and Dunhui Xiao</li>
+</ul>
+</p>
+
+<p>
+15:30-16:00	<i>tea break</i>
+</p>
+
+<p>
+16:00-17:00	<strong>Keynote address</strong><br>
+<ul>
+<li>	Dr Samarth Swarup, Biocomplexity Institute, University of Virginia, Simulation Analytics for Social and Behavioral Modeling </li>
+</ul>
+
+</p>
+<p>
+17:00-17:30	Planning ABMUS2020 and community building
+</p>
+<p>
+17:30	Wrap-up
+</p>
+
+<p>
+(Please note the agenda may be subject to change)
+</p>
+
+
+<strong>Workshop format</strong>
+<p>
+The workshop will take place over one full day, with paper presentations grouped by theme. Following the successful format of the previous ABMUS workshops, each presenter will be given a short time slot (15 minutes) to introduce the paper and/or case study as well as their views on the workshop theme. After three or four presentations there will be 30 minutes of overall discussion in which the presenters act as panel members.
+</p>
+
+</div>
+</div>
+</div>
+		
+		
+		
+<div class="footer">
+			<div class="container">
+				Please contact the the <a href="mailto:k.van-dam@imperial.ac.uk;jason.thompson@unimelb.edu.au?subject=ABMUS2019 query" title="ABMUS2019 query">workshop organisers</a> for any queries. Website template by <a href="https://github.com/russmaxdesign/example-layout-one-full" target="_blank">Russ Weakley</a>.
+			</div>
+		</div>
+
+
+
+
+</body>
+</html>
