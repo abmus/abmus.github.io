@@ -3,8 +3,8 @@
 
 <head>
 
-<title>ABMUS2021: Workshop on Agent-Based Modelling of Urban Systems</title>
-  <META name="description" content="The ABMUS2021 workshop on Agent-based modelling of urban systems will be held at the AAMAS2021 conference in London, 3-7 May 2021"><META name="keywords" content="ABMUS2021 AAMAS2021">
+<title>ABMUS2020: Workshop on Agent-Based Modelling of Urban Systems</title>
+  <META name="description" content="The ABMUS2020 workshop on Agent-based modelling of urban systems will be held at the AAMAS2020 conference in Auckland, New Zealand, from 9-13rd of May 2020"><META name="keywords" content="ABMUS2020 AAMAS2020">
 
 <link rel="stylesheet" href="css/styles.css">
 <! stylesheet from https://github.com/russmaxdesign/example-layout-one-full>
@@ -15,7 +15,7 @@
 
 <div class="header">
 			<div class="container">
-				<h1 class="header-heading">ABMUS2021: The 6th International Workshop on Agent-Based Modelling of Urban Systems</h1>
+				<h1 class="header-heading">ABMUS2020: The 5th International Workshop on Agent-Based Modelling of Urban Systems</h1>
 			</div>
 		</div>
 		
@@ -27,6 +27,9 @@
 					<li><a href="#org">Organisation</a></li>
 					<li><a href="#proceedings">Proceedings</a></li>
 					<li><a href="#programme">Workshop Programme</a></li>
+
+
+
 				</ul>
 			</div>
 		</div>
@@ -38,16 +41,19 @@
 <h2>About</h2>
 
 <p>
-    The ABMUS2021 workshop on Agent-Based Modelling of Urban Systems will be held on during 3-7 May 2021 (specific date tbc), in London UK, as part of the <a href="https://aamas2021.soton.ac.uk/" target="_blank">AAMAS2021 conference</a>.
-    Previously, <a href="http://modelling-urban-systems.com/abmus2016" target="_blank">ABMUS2016</a> was held in Singapore during <a href="https://sis.smu.edu.sg/aamas2016" target="_blank">AAMAS2016</a> on the 10th of May 2016, <a href="http://modelling-urban-systems.com/abmus2017" target="_blank">ABMUS2017</a> was held in Sao Paulo during <a href="http://www.aamas2017.org" target="_blank">AAMAS2017</a> on the 8th of May 2017 and afterwards  <a href="http://modelling-urban-systems.com/abmus2018" target="_blank">ABMUS2018</a> was held in Stockholm during the Federated AI Meeting (FAIM2018) which included the <a href="http://celweb.vuse.vanderbilt.edu/aamas18/" target="_blank">AAMAS2018</a> conference and <a href="https://www.ijcai-18.org/" target="_blank">IJCAI-ECAI</a> (International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence). In 2019, <a href="http://modelling-urban-systems.com/abmus2019" target="_blank">ABMUS2019</a> took place at <a href="http://aamas2019.encs.concordia.ca/" target="_blank">AAMAS2019</a> in Montreal, Canada on the 14th of May 2019. Due to the COVID-19 outbreak, the <a href="http://modelling-urban-systems.com/abmus2020">2020 workshop</a> (which should have taken place as part of the <a href="https://aamas2020.conference.auckland.ac.nz/">AAMAS2020</a> conference in Aukland 9-13 May) was canceled.
+<b>Unfortunately ABMUS2020 was cancelled... but we will be back in 2021!</b>
 </p>
 
 <p>
-    The central goal of this workshop is to bring together the community of researchers and practitioners who use agent-based models and multi-agent systems to understand and manage cities and urban infrastructure systems.  Through the exchange of ideas and state-of-the-art within this area, we will pool together current thinking to discuss avenues of fruitful research and methodological challenges we face in building robust, realistic, and trusted models of urban systems.
+The ABMUS2020 workshop on Agent-based modelling of urban systems will be held on the 9th or 10th (tbc) of May 2020 in Auckland, New Zealand. The workshop is part of the <a href="https://aamas2020.conference.auckland.ac.nz/" target="_blank">AAMAS2020 conference</a> taking place between 9-13rd of May. Previously, <a href="http://abmus2016.modelling-urban-systems.com/" target="_blank">ABMUS2016</a> was held in Singapore during <a href="https://sis.smu.edu.sg/aamas2016" target="_blank">AAMAS2016</a> on the 10th of May 2016, <a href="http://abmus2017.modelling-urban-systems.com/" target="_blank">ABMUS2017</a> was held in Sao Paulo during <a href="http://www.aamas2017.org" target="_blank">AAMAS2017</a> on the 8th of May 2017 and afterwards  <a href="http://abmus2018.modelling-urban-systems.com/" target="_blank">ABMUS2018</a> was held in Stockholm during the Federated AI Meeting (FAIM2018) which included the <a href="http://celweb.vuse.vanderbilt.edu/aamas18/" target="_blank">AAMAS2018</a> conference and <a href="https://www.ijcai-18.org/" target="_blank">IJCAI-ECAI</a> (International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence). Last year <a href="http://abmus2019.modelling-urban-systems.com/" target="_blank">ABMUS2019</a> took place at <a href="http://aamas2019.encs.concordia.ca/" target="_blank">AAMAS2019</a> in Montreal, Canada on the 14th of May 2019.
 </p>
 
 <p>
-    ABMUS offers a workshop where urban and geo-spatial models appear in one concentrated session. The workshop showcases state-of-the-art applications of agent technology, showing other AAMAS participants this exciting application domain, while also offering a setting for focused discussion around common themes associated with urban system modelling and community building among researchers. The overarching theme for 2020 is <i>XXXX</i>.
+The central goal of this workshop is to bring together the community of researchers and practitioners who use agent-based models and multi-agent systems to understand and manage cities and urban infrastructure systems.  Through the exchange of ideas and state-of-the-art within this area, we will pool together current thinking to discuss avenues of fruitful research and methodological challenges we face in building robust, realistic, and trusted models of urban systems.
+</p>
+
+<p>
+ABMUS offers a workshop where urban and geo-spatial models appear in one concentrated session. The workshop showcases state-of-the-art applications of agent technology, showing other AAMAS participants this exciting application domain, while also offering a setting for focused discussion around common themes associated with urban system modelling and community building among researchers. The overarching theme for 2020 is <i>multi-level modelling</i>.
 </p>
 
 <hr>
@@ -55,15 +61,15 @@
 <h2>Call for Papers<a name="cfp"></a></h2>
 
 <p>
-    Agent-based modelling has proven itself to be a useful technique for understanding and predicting changes and impact of urban form and policy on urban systems. However, recognised challenges remain in designing, developing and implementing trusted models that can be used by industry and governments to enhance decision-making, and that can incorporate real (and real-time) data sets in a meaninful way. This workshop invites submissions from researchers and practitioners who develop and use agent-based models and agent systems to understand, explore, and manage cities and urban infrastructure systems.
+Agent-based modelling has proven itself to be a useful technique for understanding and predicting changes and impact of urban form and policy on urban systems. However, recognised challenges remain in designing, developing and implementing trusted models that can be used by industry and governments to enhance decision-making, and that can incorporate real (and real-time) data sets in a meaninful way. This workshop invites submissions from researchers and practitioners who develop and use agent-based models and agent systems to understand, explore, and manage cities and urban infrastructure systems.
 </p>
 
 <p>
-    In particular, we invite presentations that fall under the <i>multi-level modelling</i> theme, describing how researchers choose spatial and temporal scales for their modelled system, and how this links to analysis at other levels of representation and abstraction. We will discuss challenges associated with model development, data interoperability, consistent representation of space and time, as well as developments in interfaces and stakeholder engagement..
+In particular, we invite presentations that fall under the <i>multi-level modelling</i> theme, describing how researchers choose spatial and temporal scales for their modelled system, and how this links to analysis at other levels of representation and abstraction. We will discuss challenges associated with model development, data interoperability, consistent representation of space and time, as well as developments in interfaces and stakeholder engagement..
 </p>
 
 <p>
-    Workshop topics include, but are not limited to, the following:
+Workshop topics include, but are not limited to, the following:
 </p>
 
 <ul>
@@ -86,11 +92,11 @@
 </ul>
 
 <p>
-    If accepted, each presenter will be given a short time slot (max 10 minutes) to introduce their paper and/or case study, followed by 5-10 minutes in which presenters will share their views on the workshop theme. After three presentations there will be 20-30 minutes of group discussion in which presenters will act as panel members.
+If accepted, each presenter will be given a short time slot (max 10 minutes) to introduce their paper and/or case study, followed by 5-10 minutes in which presenters will share their views on the workshop theme. After three presentations there will be 20-30 minutes of group discussion in which presenters will act as panel members.
 </p>
 
 <p>
-    Papers should be submitted as an extended abstract (2-4 pages) through the workshop website. Your abstract should include a Title as well as all authors and affiliations. It should articulate the objectives of the paper and provide a brief but thorough description of the research related to the theme of the workshop and the expected gain by those attending the presentation. Accepted authors will be invited to submit a full paper after the workshop to be included in the post-workshop proceedings.
+Papers should be submitted as an extended abstract (2-4 pages) through the workshop website. Your abstract should include a Title as well as all authors and affiliations. It should articulate the objectives of the paper and provide a brief but thorough description of the research related to the theme of the workshop and the expected gain by those attending the presentation. Accepted authors will be invited to submit a full paper after the workshop to be included in the post-workshop proceedings.
 </p>
 
 <p>
