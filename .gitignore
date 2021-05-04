@@ -6,3 +6,14 @@ _site/
 
 # Mac crap 
 .DS_Store
+
+# Vim
+*.swp
+
+# Latex
+*.log
+*.synctex.gz
+*.aux
+*.toc
+*.out
+
